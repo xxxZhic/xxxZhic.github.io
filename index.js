@@ -11,7 +11,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     // 创建照片元素
     const photo = document.createElement('img');
     photo.src = 'path_to_your_photo.jpg';
-    photo.alt = '旅游照片';
+    photo.alt = 'photos';
     
     // 创建视频元素
     const video = document.createElement('video');
