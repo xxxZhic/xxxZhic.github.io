@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     
     // 创建照片元素
     const photo = document.createElement('img');
-    photo.src = 'path_to_your_photo.jpg';
+    photo.src = 'IMG_4787.jpeg';
     photo.alt = 'photos';
     
     // 创建视频元素
