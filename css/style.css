@@ -307,7 +307,7 @@ a:hover {
 /*--banner-slider--*/
 
 .slider-img {
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background: url(../images/2.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -317,7 +317,7 @@ a:hover {
 }
 
 .slider-img-2 {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/1.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -327,7 +327,7 @@ a:hover {
 }
 
 .slider-img-3 {
-    background: url(../images/3.jpg) no-repeat 0px 0px;
+    background: url(../images/3.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
