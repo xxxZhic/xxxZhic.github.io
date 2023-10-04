@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #d7cece;
     margin: 0;
     padding: 20px;
   }
@@ -13,13 +13,13 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 10px;
   }
   
   img {
     width: 300px;
     height: 200px;
-    margin: 10px;
+    margin: 0px;
   }
   
   video {
